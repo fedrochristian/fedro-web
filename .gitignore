@@ -47,3 +47,12 @@ next-env.d.ts
 
 # Local temp files
 temp/
+
+# clone-website working artifacts
+.playwright-mcp/
+.mcp.json
+recon-*.png
+docs/research/raw-index.html
+docs/research/style*.css
+docs/research/motion.js
+docs/research/snapshot-desktop.md
