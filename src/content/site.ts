@@ -4,8 +4,8 @@ export const site = {
   description:
     "Technology goes exponential. Structure changes. The self must choose. A publication for the tipping point.",
   thesis: "Technology goes exponential. Structure changes. The self must choose.",
-  /** Replace before production deploy. */
-  url: "https://3x.media",
+  /** Canonical origin. Apex 3xmedia.id 308-redirects to www. */
+  url: "https://www.3xmedia.id",
   /** Social/follow targets. */
   socials: {
     youtube: "https://www.youtube.com/@fedro.christian",
